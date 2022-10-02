@@ -6,5 +6,5 @@ Diagnose
 3. "It works" appears on your web browser, that means jquery loaded perfectly.
 
 -----------
-4. try to uncomment  <!-- <script src="./libs/jquery.js"></script> --> in line 8
+4. try to uncomment  "<script src="./libs/jquery.js"></script>" in line 8
 5. You won't get any error
